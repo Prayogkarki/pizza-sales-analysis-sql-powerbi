@@ -124,21 +124,7 @@ The business wants to understand:
 
 ---
 
-## 📂 Project Structure
 
-pizza-sales-analysis-sql-powerbi/
-│
-├── pizzasales_analysis.pbix
-├── PIZZA SALES SQL QUERIES.doc
-├── pizza_sales.csv
-├── dashboard_images/
-│   ├── overview_dashboard.png
-│   ├── kpis.png
-│   ├── best_seller_vs_worse.png
-│   └── charts.png
-└── README.md
-
----
 
 ## 🔗 Future Improvements
 - Add forecasting for future sales  
