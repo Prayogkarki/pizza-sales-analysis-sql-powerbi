@@ -100,6 +100,9 @@ The business wants to understand:
 ### 🔹 Product Insights
 ![charts](dashboard_images/charts.png)
 
+### 🔹 Product Insights
+![charts](dashboard_images/more_charts.png)
+
 ---
 
 ## 💡 Key Insights
@@ -125,7 +128,7 @@ The business wants to understand:
 
 pizza-sales-analysis-sql-powerbi/
 │
-├── Pizza_Sales_Dashboard.pbix
+├── pizzasales_analysis.pbix
 ├── PIZZA SALES SQL QUERIES.doc
 ├── pizza_sales.csv
 ├── dashboard_images/
